@@ -27,7 +27,7 @@ async def start(bot, update):
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Source Code📕', url='https://Github.com/MR-JINN-OF-TG/Stickerid'), 
-        InlineKeyboardButton('CHANNEL📕', url=f"https://telegram.me/{Config.CHANNEL}")
+        InlineKeyboardButton('OWNER📕', url=f"https://t.me/Mr_Kabus_13')
         ]]
     )
 
